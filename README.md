@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanchoco
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JSP
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me baedabin3525@gmail.com
 - 🎈 my blog < https://golom.tistory.com/ >
