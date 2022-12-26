@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Kanchoco%20Github!&fontSize=90" />
+
 - 👋 Hi, I’m @kanchoco
 - 👀 I’m interested in JAVA
 - 🌱 I’m currently learning Spring
