@@ -28,7 +28,7 @@
 <br>
 <p>⚒Tools⚒</p>
 <div>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=black"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
