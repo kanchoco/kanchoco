@@ -1,5 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Kanchoco%20Github!&fontSize=90" />
 
+<h2>Profile</h2>
+<div>
+  배다빈<br>
+  1999.08.30<br>
+  <b>Back-End Developer, Full-Stack Developer</b>
+</div>
+<br>
+<i>Contact</i>
+<div>
+📞 010-4827-3527<br>
+✉️ baedabin3525@gmail.com
+</div>
 
 
 <h2>Tech Stack</h2> 
@@ -22,6 +34,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=JSON&logoColor=white"/>
   
 </div>
 <br>
@@ -39,13 +54,13 @@
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
 <br>
 <br>
 <p>🎈SNS🎈</p>
-<div>!Click to Move!</div>
-<br>
 <div>  
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   <a href="https://www.notion.so/5f4d8d2bd2bf47889cb672ce19b2489f"> 
