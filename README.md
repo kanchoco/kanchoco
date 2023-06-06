@@ -70,12 +70,6 @@
 </div>
 <br>
 <br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchoco&layout=compact"><br><br>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kanchoco&show_icons=true">
-</p>
 
 <!---
 kanchoco/kanchoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
